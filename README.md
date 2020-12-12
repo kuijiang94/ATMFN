@@ -45,6 +45,7 @@ https://drive.google.com/open?id=0B-s6ok7B0V9vcXNfSzdjZ0lCc0k)
 
 If you prepare your own dataset, perform the compress.m to generate the compressed samples with special quality ratios. 
 Then put the data into the data file with the following form:
+
 |--train_data  
 
     |--compressed samples  
