@@ -82,9 +82,9 @@ $ python train_ATMFN.py
 The evaluated result will be stored in "src/result".
 
 
-## II. Test the IADN model 
+## II. Test the ATMFN model 
 
-####  Test the Retraining Model With Your Own Dataset (TEST_IADN.PY)
+####  Test the Retraining Model With Your Own Dataset (TEST_ATMFN.PY)
 Download the commonly used testing datasets (lfw, CelebA, Helen) ([Baidu Cloud](https://pan.baidu.com/s/1MdWf_isUfRKdK66mNcqIow ), (**Password:7ov5**)).
 Put your dataset in './test/test_data/'.
 
